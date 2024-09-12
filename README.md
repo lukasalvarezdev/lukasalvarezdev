@@ -1,1 +1,3 @@
-👋🏻 Hi, I’m Lukas, just a guy looking to make cool things with software.
+I co-founded an ERP startup from the ground up, managing all aspects of development and leading the product to serve daily active users. My expertise lies in React, TypeScript, Remix, NextJS, Prisma, and Node. I treat software development as an art, emphasizing clean, maintainable code and exceptional UX.
+
+I focus on creating intuitive, accessible apps that solve real problems, like simplifying electronic invoicing for small businesses in Colombia. I’m looking for challenging projects with impactful teams where I can contribute, mentor junior developers, and enhance both code quality and business value. I value honesty, directness, and a deep involvement in the business side of my work.
