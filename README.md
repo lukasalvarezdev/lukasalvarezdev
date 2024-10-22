@@ -1,3 +1,3 @@
-I co-founded an ERP startup from the ground up, managing all aspects of development and leading the product to serve daily active users. My expertise lies in React, TypeScript, Remix, NextJS, Prisma, and Node. I treat software development as an art, emphasizing clean, maintainable code and exceptional UX.
+I build apps with React, TypeScript, Remix, NextJS, Prisma, and Node, always aiming for clean code and great UX. I’m focused on creating simple, accessible solutions to real problems.
 
-I focus on creating intuitive, accessible apps that solve real problems, like simplifying electronic invoicing for small businesses in Colombia. I love challenging projects with impactful teams where I can contribute, mentor junior developers, and enhance both code quality and business value. I value honesty, directness, and a deep involvement in the business side of my work.
+I like working on tough projects with teams that care about impact, where I can mentor, push for better code, and make a difference. Honesty, directness, and being involved in the business side are important to me.
